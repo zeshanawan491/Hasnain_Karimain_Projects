@@ -2,7 +2,7 @@ Hasnain_Karimain_Projects
 
 # 🚀 Web Development Internship Projects
 
-This repository contains my internship tasks for Rhombix Technologies.
+This repository contains my internship tasks for Hasnain Karimain (HK) Company.
 
  📌 Projects
 🔹 Hero Slider (Dynamic Image Slider)
@@ -17,7 +17,7 @@ This repository contains my internship tasks for Rhombix Technologies.
 -  Smooth transitions and animations
 
 
-🔹 About Page (Bonus)
+🔹 About Page 
 - Dynamic team system
 - CRUD operations
 
