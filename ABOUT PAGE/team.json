@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Ali Khan",
+    "role": "Frontend Developer",
+    "image": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "name": "Sara Ahmed",
+    "role": "UI Designer",
+    "image": "https://i.pravatar.cc/150?img=2"
+  }
+]
